@@ -11,11 +11,11 @@ $ python3 pyASCII.py filename.png 50
 ```console
 $ python3 pyASCII.py Carizard.png 30
 ```
-[alt text](https://github.com/EdoardoFigini/pyASCII/blob/main/Charizard.png "Charizard")
+![alt text](https://github.com/EdoardoFigini/pyASCII/blob/main/Charizard.png "Charizard")
                                                                         
                                                             
                                                             
-                                                            
+ ```                                                           
                         ?                                   
                       ?   ? , ?                             
                 *     * * * * * ?                           
@@ -39,7 +39,4 @@ $ python3 pyASCII.py Carizard.png 30
         * * * * * * * ? ? * ? . + + + + * * _               
           * * + * * *                   * * *               
               @ @                         % %               
-                                                            
-                                                            
-                                                            
-                                                            
+```                                                          
