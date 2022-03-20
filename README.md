@@ -14,12 +14,6 @@ $ python3 pyASCII.py Carizard.png 50
 ![alt text](https://github.com/EdoardoFigini/pyASCII/blob/main/Charizard.png?raw=true "Charizard")
 
 ```
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
                                     % ? ? ?                                                         
                                     ? *   * ? ? _ +                                                 
                               +     * * * * * * * * *                                               
